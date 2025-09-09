@@ -5,6 +5,8 @@ I needed something to do in my free time, and found out about Tkinter.
 # How to use:
 * Open it.
 * Stare at your system information.
+# Image.
+<img width=400px src=screenshots\screenshot01.png></img>
 # FAQ
 * Why no GPU?
   * Because neither os or platform modules allow for GPU things (as far as I know.)
